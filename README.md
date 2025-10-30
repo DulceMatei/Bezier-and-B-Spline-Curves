@@ -52,8 +52,10 @@ The requirements.txt file contains all necessary Python packages for running the
 
 ### 1. General Bezier Curve
 
-**Algorithm:** General Bezier  
+**Algorithm:** General Bezier
+
 **Control Points:**
+
 0, 0;
 2, 10;
 4, 6;
@@ -65,6 +67,7 @@ The requirements.txt file contains all necessary Python packages for running the
 4, -1;
 2, -2;
 0, 0;
+
 **Visualization:**
 
 
