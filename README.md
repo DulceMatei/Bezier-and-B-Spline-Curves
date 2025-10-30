@@ -109,6 +109,8 @@ The B-Spline curve passes smoothly through all the control points. Unlike Bezier
 
 ![B-Spline](gif/B-Spline.gif)
 
+---
+
 ## 📝 Conclusion
 
 This project offers an interactive approach to learning and experimenting with Bezier and B-Spline curves.
