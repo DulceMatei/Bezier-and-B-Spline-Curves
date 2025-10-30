@@ -1,0 +1,53 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / Backups
+*.log
+*.bak
+*.tmp
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Matplotlib & Qt runtime files
+__pycache__/
+*.qt-for-python/
+*.pyqt_temp/
+*.pkl
+*.dat
+
+# Data files that are not necessary for source control
+*.xlsx
+*.csv
+*.txt
+
+# Images & GIFs (optional — doar dacă nu vrei să urci capturile mari)
+*.png
+*.jpg
+*.jpeg
+*.gif

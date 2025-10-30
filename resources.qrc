@@ -1,0 +1,24 @@
+<RCC>
+  <qresource>
+    <file>icons/Reset icon black.png</file>
+    <file>icons/Draw icon black.png</file>
+    <file>icons/add icon black.png</file>
+    <file>icons/menu white 100% icon.png</file>
+    <file>icons/import net.png</file>
+    <file>icons/import 3d.png</file>
+    <file>icons/sidebarIN.png</file>
+    <file>icons/sidebarOUT.png</file>
+    <file>icons/import icon.png</file>
+    <file>icons/home icon.png</file>
+    <file>icons/icona linie calculator.png</file>
+    <file>icons/icons8-bezier-64.png</file>
+    <file>icons/meniu gif icon.gif</file>
+    <file>icons/menu windows11 icon.png</file>
+    <file>icons/ovidius_icon.png</file>
+    <file>icons/qsvgicon.dll</file>
+    <file>icons/search icon.png</file>
+    <file>icons/sign out icon.png</file>
+    <file>icons/sign out iconita windows11 white 100%.png</file>
+    <file>icons/vitamin.png</file>
+  </qresource>
+</RCC>
