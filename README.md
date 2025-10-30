@@ -66,7 +66,7 @@ The requirements.txt file contains all necessary Python packages for running the
 0, 0;
 
 **Visualization:**
-![Bezier general](Bezier-general/BFS.gif)
+![Bezier general](gif/Bezier-general.gif)
 
 
 
