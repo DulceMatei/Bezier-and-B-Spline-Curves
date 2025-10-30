@@ -44,3 +44,28 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+The requirements.txt file contains all necessary Python packages for running the application.
+
+---
+
+## 🖼️ Examples
+
+### 1. General Bezier Curve
+
+**Algorithm:** General Bezier  
+**Control Points:**
+0, 0
+2, 10
+4, 6
+3, 4
+6, 3
+5, 1
+8, 0
+6, -2
+4, -1
+2, -2
+0, 0
+
+
+
+
