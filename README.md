@@ -55,7 +55,6 @@ The requirements.txt file contains all necessary Python packages for running the
 **Algorithm:** General Bezier
 
 **Control Points:**
-
 0, 0;
 2, 10;
 4, 6;
